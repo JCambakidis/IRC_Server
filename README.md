@@ -7,5 +7,5 @@ It's a simple server IRC tested with LimeChat.
 
 How it work:
 ```
-make re && ./ircserv PORT PASSWORD
+make re && ./ircserv <port> <password>
 ``` 
